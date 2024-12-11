@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [@clearfunction](https://clearfunction.com/)
 - 💬 Ask me about .NET, PowerShell, Swift, TypeScript/JavaScript or whatever...
-- 📫 How to reach me: [Twitter](https://twitter.com/drmohundro/) or david at mohundro dot com
+- 📫 How to reach me: [BlueSky](https://bsky.app/profile/david.mohundro.com), `drmohundro` on most other platforms, or david at mohundro dot com
 
 <!--
 **drmohundro/drmohundro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
